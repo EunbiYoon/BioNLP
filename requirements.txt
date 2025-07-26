@@ -1,0 +1,11 @@
+accelerate
+bitsandbytes
+transformers
+datasets
+peft
+trl
+tiktoken
+protobuf
+sentencepiece
+pillow
+
